@@ -1,8 +1,18 @@
 # Curso de Frameworks
+Me gusta la programación y actualmente me desempeño como docente en materias de Programación en el CBTis 169 de Cintalapa, Chiapas. 
 
-Mis repositorios :
+## Lenguajes que utilizo para mis clases:
+- Python
+- PHP
+- Javascript
 
-[Acerca de Mí :)](https://github.com/jepguzman/jepguzman/blob/main/README.md)
+## Frameworks que me gustan:
+- VUE.js
+- Code Igniter
+- Flight PHP 
+- Redbeans
+
+## Ejemplo de mis repositorios :
 
 [Ejemplo de una API con Flight PHP](https://github.com/jepguzman/FlightAPI)
 
