@@ -10,8 +10,7 @@ Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación 
 | [Python](https://www.python.org/)                                  |  
 | [PHP](https://www.php.net/manual/es/intro-whatis.php)              |  
 | [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript) |  
-| [HTML](https://developer.mozilla.org/es/docs/Web/HTML) y           |  
-| [CSS](https://developer.mozilla.org/es/docs/Web/CSS)               |   
+| [HTML](https://developer.mozilla.org/es/docs/Web/HTML) y [CSS](https://developer.mozilla.org/es/docs/Web/CSS) |   
 
 </div>
 
