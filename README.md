@@ -2,6 +2,8 @@
 
 Mis repositorios :
 
+![con mis Alumnos](https://photos.google.com/u/1/photo/AF1QipM7QvLpmr1hs1-y7WIMcdjaFAh2yFWsSkQLRLrp)
+
 [Acerca de Mí :)](
 https://github.com/jepguzman/jepguzman/blob/main/README.md)
 
