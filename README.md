@@ -16,7 +16,7 @@ Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación 
 
 [Ejemplo de una API con Flight PHP](https://github.com/jepguzman/FlightAPI)
 
-[Práctica de Pókemon con Vanilla JS](https://github.com/jepguzman/pokejs)
+[Práctica de la API Pókemon con Vanilla JS](https://github.com/jepguzman/pokejs)
 
 [Sitio WEB del CBTis 169 usando VUE.js](https://github.com/jepguzman/cbtis169/tree/master)
 
