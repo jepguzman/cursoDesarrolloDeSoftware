@@ -1,3 +1,4 @@
+<img src="/img/foto-presentacion.jpg" width="480">
 # Curso de Frameworks
 Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación y actualmente me desempeño como docente en el CBTis 169 de Cintalapa, Chiapas. 
 
@@ -22,4 +23,4 @@ Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación 
 
 [Sitio WEB del CBTis 169 usando VUE.js](https://github.com/jepguzman/cbtis169/tree/master)
 
-<img src="/img/foto-presentacion.jpg" width="480">
+
