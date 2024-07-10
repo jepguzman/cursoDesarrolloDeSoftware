@@ -5,7 +5,7 @@ Mis repositorios :
 [Acerca de Mí :)](
 https://github.com/jepguzman/jepguzman/blob/main/README.md)
 
-![con mis Alumnos  width="250"](https://rodulfofigueroa.com.mx/images/foto-presentacion.jpg)
+<img src="https://rodulfofigueroa.com.mx/images/foto-presentacion.jpg)" alt="con mis Alumnos" width="200"/>
 
 [Ejemplo de una API con Flight PHP](https://github.com/jepguzman/FlightAPI)
 
