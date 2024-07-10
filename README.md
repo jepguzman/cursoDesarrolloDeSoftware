@@ -9,13 +9,13 @@ Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación 
 | [PHP](https://www.php.net/manual/es/intro-whatis.php)              |  
 | [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript) |  
 | [HTML](https://developer.mozilla.org/es/docs/Web/HTML) y           |  
-| [CSS](https://developer.mozilla.org/es/docs/Web/CSS)               | <img src="/img/lengiajes.png" width="480">  
+| [CSS](https://developer.mozilla.org/es/docs/Web/CSS)               | <img src="/img/lenguajes.png" width="480">  
 
 ## Frameworks que me gustan:
 - [VUE.js](https://vuejs.org/)
 - [Code Igniter](https://www.codeigniter.com/)
 - [Flight PHP](https://docs.flightphp.com/) 
-- [RedBean PHP](https://redbeanphp.com/)
+- [RedBean PHP](https://redbeanphp.com/) <img src="/img/frameworks.png" width="480">
 
 ## Ejemplo de mis repositorios :
 
