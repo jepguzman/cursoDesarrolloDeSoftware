@@ -3,6 +3,7 @@ Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación 
 
 ## Lenguajes que utilizo para mis clases:
 - Python
+- HTML
 - PHP
 - Javascript
 
