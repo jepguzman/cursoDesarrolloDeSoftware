@@ -3,6 +3,7 @@
 # Curso de Frameworks
 Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación y actualmente me desempeño como docente en el CBTis 169 de Cintalapa, Chiapas. 
 
+<div>
 | ## Lenguajes que utilizo para mis clases: |     
 | ------------------------------------------------------------------ | 
 | [Python](https://www.python.org/)                                  |  
@@ -10,8 +11,12 @@ Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación 
 | [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript) |  
 | [HTML](https://developer.mozilla.org/es/docs/Web/HTML) y           |  
 | [CSS](https://developer.mozilla.org/es/docs/Web/CSS)               |   
+</div>
+<div>
+<img src="/img/lenguajes.png" width="320">  
+</div>
 
-<img src="/img/lenguajes.png" width="320">
+
 
 ## Frameworks que me gustan:
 - [VUE.js](https://vuejs.org/)
