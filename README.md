@@ -8,7 +8,7 @@ Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación 
 - Javascript
 
 ## Frameworks que me gustan:
-- [VUE.js](https://vuejs.org/))
+- [VUE.js](https://vuejs.org/)
 - [Code Igniter](https://www.codeigniter.com/)
 - [Flight PHP](https://docs.flightphp.com/) 
 - [RedBean PHP](https://redbeanphp.com/)
