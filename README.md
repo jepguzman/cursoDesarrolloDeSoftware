@@ -21,5 +21,4 @@ Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación 
 
 [Sitio WEB del CBTis 169 usando VUE.js](https://github.com/jepguzman/cbtis169/tree/master)
 
-<img src="https://rodulfofigueroa.com.mx/images/foto-presentacion.jpg" alt="con mis Alumnos" width="480"/>
-![Presentación de Proyecto](/img/foto/presentacion.jpg)
+<img src="/img/foto-presentacion.jpg" width="480">
