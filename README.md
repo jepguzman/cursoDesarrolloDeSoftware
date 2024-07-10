@@ -1,5 +1,5 @@
 # Curso de Frameworks
-Me gusta la programación y actualmente me desempeño como docente en materias de Programación en el CBTis 169 de Cintalapa, Chiapas. 
+Hola mi nombre es : José Enrique Pérez Guzmán, me gusta la programación y actualmente me desempeño como docente en materias de Programación en el CBTis 169 de Cintalapa, Chiapas. 
 
 ## Lenguajes que utilizo para mis clases:
 - Python
