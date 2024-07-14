@@ -4,7 +4,7 @@
 
 Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación y actualmente me desempeño como docente en el CBTis 169 de Cintalapa, Chiapas. 
 
-## Lenguajes que utilizo para mis clases: |     
+## Lenguajes que utilizo para mis clases:
 
 | ------------------------------------------------------------------ | 
 | [Python](https://www.python.org/)                                  |  
