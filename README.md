@@ -6,6 +6,7 @@ Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación 
 
 ## Lenguajes que utilizo para mis clases:
 
+| LENGUAJES |
 | ------------------------------------------------------------------ | 
 | [Python](https://www.python.org/)                                  |  
 | [PHP](https://www.php.net/manual/es/intro-whatis.php)              |  
@@ -16,7 +17,7 @@ Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación 
 
 ## Frameworks que me gustan:
 
- 
+| FRAMEWORK | 
 | ----------------------------------------------| 
 | [VUE.js](https://vuejs.org/)                  |  
 | [Code Igniter](https://www.codeigniter.com/)  |  
