@@ -1,6 +1,6 @@
 # Desarrolla software con herramientas orientadas a la productividad.
 
-<img src="/img/alumnos6oSEM.png" width="320">
+<img src="/img/alumnos6oSEM.png">
 
 Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación y actualmente me desempeño como docente en el CBTis 169 de Cintalapa, Chiapas. 
 
