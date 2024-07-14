@@ -1,8 +1,11 @@
+# Desarrolla software con herramientas orientadas a la productividad.
+
 <img src="/img/foto-presentacion.jpg" width="320">
 
-# Curso de Frameworks
-
 Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación y actualmente me desempeño como docente en el CBTis 169 de Cintalapa, Chiapas. 
+
+## Ejemplo de una Aplicación usando los conocimientos adquiridos en el curso, para la rúbrica:
+[Proyecto Galería de Imágenes](https://github.com/jepguzman/cursoFrameworks/tree/master)
 
 ## Lenguajes que utilizo para mis clases:
 
@@ -25,9 +28,6 @@ Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación 
 | [RedBean PHP](https://redbeanphp.com/)        |   
 
 <img src="/img/frameworks.png" width="320">
-
-## Ejemplo de una Aplicación usando los conocimientos adquiridos en el curso, para la rúbrica:
-[Proyecto Galería de Imágenes](https://github.com/jepguzman/cursoFrameworks/tree/master)
 
 ## Otros repositorios de ejemplo de algunos proyectos elaborados junto con mis alumn@s:
 
