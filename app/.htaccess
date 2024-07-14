@@ -1,0 +1,13 @@
+<ifModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]
+Options -Indexes
+</ifModule>
+
+# Establecemos los requisitos de FlightPHP
+# Y negamos el acceso a la carpeta 'app'
+#
+#Deny from All 
+

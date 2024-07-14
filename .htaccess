@@ -1,0 +1,7 @@
+# Restringimos el Acceso a nuestra aplicación y 
+# redirigimos a la carpeta "public"
+<ifModule mod_rewrite.c>
+RewriteEngine Off
+RewriteRule ^(.*)$ public/$1 [L]
+RewriteRule     ^$ public/   [L]    
+</ifModule> 
