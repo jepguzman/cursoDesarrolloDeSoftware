@@ -5,7 +5,7 @@
 Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación y actualmente me desempeño como docente en el CBTis 169 de Cintalapa, Chiapas. 
 
 ## Ejemplo de una Aplicación usando los conocimientos adquiridos en el curso, para la rúbrica:
-[Proyecto Galería de Imágenes](https://github.com/jepguzman/cursoFrameworks/tree/master)
+[Proyecto Galería de Imágenes](https://github.com/jepguzman/cursoDesarrolloDeSoftware/tree/master)
 
 ## Lenguajes que utilizo para mis clases:
 
