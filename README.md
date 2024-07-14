@@ -29,7 +29,7 @@ Hola mi nombre es : **José Enrique Pérez Guzmán**, me gusta la programación 
 
 <img src="/img/frameworks.png" width="320">
 
-## Otros repositorios de ejemplo de algunos proyectos elaborados junto con mis alumn@s:
+## Repositorios de ejemplo de proyectos elaborados junto con mis alumn@s:
 
 [Práctica de la API Pókemon con Vanilla JS](https://github.com/jepguzman/pokejs)
 
